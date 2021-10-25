@@ -1,2 +1,10 @@
 # Gerenciamento_de_pedidos_de_uma_pastelaria
-Repositório do projeto "Gerenciamento de pedidos de uma pastelaria" 
+
+### Justificativa
+
+### Descrição do produto
+
+### Especificação do papel de cada membro
+
+
+

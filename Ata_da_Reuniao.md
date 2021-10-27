@@ -14,7 +14,7 @@
 * Verônica Bispo de Abreu (cliente)
 
 ### Objetivos
-* Criar um sistema para autoandimento com a descrição dos produtos que facilite ao consumidor realizar um pedido.
+* Criar um sistema para autoatendimento com a descrição dos produtos que facilite ao consumidor realizar um pedido.
 * Adicionando informações como: O pedido, nome do cliente, forma de pagamento (não será feito pelo sistema).
 * Deve haver uma parte onde o cliente adiciona observações sobre o pedido como adicionais.
 

@@ -8,7 +8,7 @@
 
 |                 Papel                      |              Nome do membro                   |
 |--------------------------------------------|-----------------------------------------------|
-|Permitir que os clientes realizem pedidos   |João Bispo de Santana Neto (@N33ttu2)          |   
-|Partes relacionadas ao cardápio             |Carlos Henrique Costa Cavalcante (@chenriquecc)|  
+|Permitir que os clientes realizem pedidos   |Manoel Moreira Neto (@netomoreira)             |   
+|Partes relacionadas ao cardápio             |Manoel Moreira Neto (@netomoreira)             |  
 |Gerar lista com todos os pedidos do dia     |João Bispo de Santana Neto (@N33ttu2)          |
 

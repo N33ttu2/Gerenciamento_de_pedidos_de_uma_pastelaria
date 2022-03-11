@@ -6,9 +6,12 @@
  Sistema de autoatendimento onde o cliente da empresa realiza o pedido a partir de um cardápio de produtos com: Descrição do produto, adicionais e observações sobre o pedido. Haverá também uma opção de mostrar todos os pedidos realizados no dia.
 ### Especificação do papel de cada membro
 
-|                 Papel                      |              Nome do membro                   |
-|--------------------------------------------|-----------------------------------------------|
-|Permitir que os clientes realizem pedidos   |Manoel Moreira Neto (@netomoreira)             |   
-|Partes relacionadas ao cardápio             |Manoel Moreira Neto (@netomoreira)             |  
-|Gerar lista com todos os pedidos do dia     |João Bispo de Santana Neto (@N33ttu2)          |
+|                 Papel                      |              Nome do membro                    |
+|--------------------------------------------|------------------------------------------------|
+|Permitir que os clientes realizem pedidos   |João Bispo de Santana Neto (@N33ttu2)           |
+|                                            |Carlos Henrique Costa Cavalcante (@chenriquecc) |
+|Partes relacionadas ao cardápio             |João Bispo de Santana Neto (@N33ttu2)           |  
+|Permitir que o cliente escreva o nome       |Manuel Moreira Neto (@netomoreira)              |
+|Forma de pagamento                          |Kaun Damasceno (@KauanRdzin)                    |
+|Permititr que o cliente escolha uma mesa    |João Bispo de Santana Neto (@N33ttu2)           |                              
 

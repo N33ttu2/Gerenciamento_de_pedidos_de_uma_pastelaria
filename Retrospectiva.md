@@ -38,3 +38,4 @@
 * Aprendemos a mexer com JOption Pane.
 * Aprendemos a dialogar e entrar em consenso.
 
+> **Nota:** Todos os membros ajudaram a montar essa parte do projeto, alguns tiveram dificuldades em mexer com o git hub mas conseguimos chegar a um objeto ainda que não estejamos satisfeitos com o resultado final.
